@@ -7,7 +7,7 @@ const Header =() =>{
         <header>
             <nav className='navbar'>
                 <Link className='f'>Vivekanand College</Link>
-                <Link className='f'to='/homepage'>Home</Link>
+                <Link className='f'to='/'>Home</Link>
                 <Link to='/admissionspage'></Link>
                 <Link className='f'to='/aboutpage'>About</Link>
                 <Link className='f'to='/coursespage'>Course</Link>
