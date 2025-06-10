@@ -17,7 +17,7 @@
 }
 
 .top{
-  background-image: url(C:\OJT\OJT3_react_project\OJT3_project\public\Images\logo.jpg);
+  background-image: url("/Images/logo.jpg");
   background-size: cover;
   padding: 10px 20px;
   border-radius: 10px;
