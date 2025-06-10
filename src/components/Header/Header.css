@@ -1,0 +1,46 @@
+.navbar{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
+    font-size: larger;
+    gap: 1px;
+    padding: 10px 5px;
+    color: white;
+    text-align: left;
+
+}
+
+.but{
+  background-color:green;
+  text-align: center;
+  color: white;
+}
+
+.name{
+  color: white;
+  font-size: 35px;
+  font-weight: bold;
+  word-spacing: 10px;
+}
+
+.n{
+  background-color: aqua;
+  position: fixed;
+  display: flex;
+}
+
+.f{
+  color: white;
+}
+
+
+
+

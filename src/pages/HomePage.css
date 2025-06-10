@@ -1,0 +1,51 @@
+
+
+.butto{
+  background-color:green;
+  text-align: center;
+  justify-content: center;
+}
+
+
+.k{
+  text-align: center;
+  color: black;
+}
+
+.h{
+  text-align: center;
+}
+
+.top{
+  background-image: url(C:\OJT\OJT3_react_project\OJT3_project\public\Images\logo.jpg);
+  background-size: cover;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color:white;
+  text-align: center;
+  margin-bottom: 80px;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.butt{
+  background-color:green;
+  text-align: center;
+}
+
+div #scroller{
+    width:800px;
+    height:500px;
+    overflow-y: scroll;
+    scrollbar-color: grey #fff;
+    text-align: left;
+    padding-left: 350px;
+}
+
+.add{
+  background-color: skyblue;
+  padding: 20px;
+  min-height: 100vh;
+}

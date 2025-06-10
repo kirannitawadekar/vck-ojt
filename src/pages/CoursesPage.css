@@ -1,0 +1,17 @@
+
+.h1{
+    color:blue;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+.o{
+  width:800px;
+  height:500px;
+  overflow-y: scroll;
+  scrollbar-color: grey #fff;
+  text-align: left;
+  padding-left: 350px;
+}
