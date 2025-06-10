@@ -2,7 +2,8 @@ import React from "react";
 import './HomePage.css'
 import { Link } from "react-router-dom";
 import Header from "../components/Header/Header";
-import Footer from "../../../../day5/OJT2_project/OJT2_project/src/components/Footers/Footer";
+import Footer from "../components/Footer/Footer";
+
 
 const HomePage =() =>{
     return(
