@@ -19,7 +19,6 @@
 .top{
   background-image: url("/Images/logo.jpg");
   background-size: cover;
-  padding: 10px 20px;
   border-radius: 10px;
   color:white;
   text-align: center;
@@ -42,6 +41,7 @@ div #scroller{
     scrollbar-color: grey #fff;
     text-align: left;
     padding-left: 350px;
+    
 }
 
 .add{

@@ -6,6 +6,7 @@ import AboutPage from './pages/AboutPage'
 import ContactPage from './pages/ContactPage'
 import CoursesPage from './pages/CoursesPage'
 import ChatbotComponent from './components/Chatbot/ChatbotComponents'
+import NotFoundPage from './pages/NotFoundPage'
 
 const App =() =>{ 
     return(
@@ -17,6 +18,7 @@ const App =() =>{
                     <Route path="/aboutpage" element={<AboutPage/>}/>
                     <Route path="/contactpage" element={<ContactPage/>}/>
                     <Route path="/coursespage" element={<CoursesPage/>}/>
+                    <Route path="*" element={<NotFoundPage/>}/>
                 </Routes>
                 <ChatbotComponent/>
             </Router>
