@@ -36,7 +36,7 @@ At Vivekanand College, we believe in a vibrant learning environment that extends
                     <center><Link to="/coursespage" ><button className="butt">Explore Courses</button></Link></center>
                 </div>
             <div>
-            </div>0
+            </div>
             </div>
             <Footer/>
         </div>
