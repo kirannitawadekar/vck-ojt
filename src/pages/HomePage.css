@@ -9,15 +9,16 @@
 
 .k{
   text-align: center;
-  color: black;
+  color: white;
 }
 
-.h{
+.lo{
   text-align: center;
+  color: white;
 }
 
 .top{
-  background-image: url("/Images/logo.jpg");
+  background-image: url("/Images/college-banner3.png");
   background-size: cover;
   border-radius: 10px;
   color:white;

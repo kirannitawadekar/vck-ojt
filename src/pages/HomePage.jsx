@@ -11,7 +11,7 @@ const HomePage =() =>{
             <Header/>
             <div id="scroller">
                 <div className="top">
-                    <h1 className="h">Welcome to Vivekanand College!</h1>
+                    <h1 className="lo">Welcome to Vivekanand College!</h1>
                     <p className="k">Your journey to excellence starts here.</p>
                     <div>
                         <Link to="/admissionspage"><button className="butto">Apply Now!</button></Link>

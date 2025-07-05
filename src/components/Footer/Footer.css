@@ -2,8 +2,13 @@
     background-color: darkslategrey;
     color: white;
     text-align: center;
-    padding: 0px;
-    position:absolute;
-    width: 100vw;
+    padding: 10px 5px;
+    position:fixed;
+    justify-content: space-between;
+    top: 650px;
+    left: 0;
+    right: 0;
+    height: 50px;
+
 }
 
