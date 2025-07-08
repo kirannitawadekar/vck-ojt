@@ -18,12 +18,13 @@
 }
 
 .top{
-  background-image: url("/Images/college-banner3.png");
+  background-image: url("/Images/college-banner2.png");
+  background-position: center;
   background-size: cover;
   border-radius: 10px;
   color:white;
   text-align: center;
-  margin-bottom: 80px;
+  margin-bottom:80px;
   position: relative;
   justify-content: center;
   align-items: center;
